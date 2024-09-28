@@ -1,0 +1,7 @@
+# Web
+- Configure frontend Dockerfile to npm build as build dependency and only copy the final minfied stuff
+- usgwi o."a. fuer performance/multithreaded
+- After create, directly go to details
+- Fix bugs where double dlicking is needed
+- Reduce Docker image size
+- /api/remove
